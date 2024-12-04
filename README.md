@@ -1,2 +1,2 @@
 
-deneme açamlı git github öğrenme projesidir.
+deneme amaçlı git github öğrenme projesidir.
